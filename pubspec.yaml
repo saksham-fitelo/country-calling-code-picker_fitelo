@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_sim_country_code: ^0.1.1
+  flutter_sim_country_code:
+   git: https://github.com/saksham-fitelo/flutter_sim_country_code_fitelo
 
 
 dev_dependencies:
